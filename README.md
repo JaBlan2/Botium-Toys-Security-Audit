@@ -1,2 +1,7 @@
 # Botium Toys Security Audit
-Jacob Blanchard's Cybersecurity Portfolio.
+## Table of Contents
+1. [Introduction](/introduction)
+2. [Scenario]
+
+
+## Introduction
