@@ -1,6 +1,6 @@
 # Botium Toys Security Audit
 ## Table of Contents
-1. [Introduction](../readme/introduction)
+1. [Introduction](#introduction)
 2. [Scenario]
 
 
