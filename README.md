@@ -1,18 +1,18 @@
 # Botium Toys Security Audit
 
 ## Introduction
-This is an internal security audit done as a practice to hone my skills and give me experience in doing security audits. This audit is performed on the ficticious company Barium Toys, and was completed as a part of my Cybersecurity Portfolio alongside Google's [Cybersecurity Professional Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate) on Coursera. This is course 2, [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity).
+This is an internal security audit done as a practice to hone my skills and give me experience in doing security audits. This audit is performed on the fictitious company Barium Toys, and was completed as a part of my Cybersecurity Portfolio alongside Google's [Cybersecurity Professional Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate) on Coursera. This is course 2, [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity).
 
-The goal of this audit is to find security flaws in Botium Toys' cybersecurity program. This includes their assets (such as employee equipment and devices), their internal network, and their systems. I will be using a controls and compliance checklist to determine best practices that need to be implimented to improve their security posture.
+The goal of this audit is to find security flaws in Botium Toys' cybersecurity program. This includes their assets (such as employee equipment and devices), their internal network, and their systems. I will be using a controls and compliance checklist to determine best practices that need to be implemented to improve their security posture.
 
 ## Scenario
 Botium Toys is a small U.S. business that develops and sells toys. They have a single physical location that houses most of the operations besides manufacturing. Recently, Botium Toys' online presence has grown, attracting customers outside of the U.S. such as in the European Union. As a result, their information technology department is under pressure to support their market worldwide.
 
-Their IT department's manager has decided that they should perform an internal IT audit, as she is worried about maintaining compliance and business operations as the company continues to grow without clear guidelines. She believes that an internal audit will help to secure the company's infastructure and help them identify and mitigate potential risks, vulnerabilities, or threats to assets. The manager is also interested in ensuring that they comply with regulations for conducting busiuness in the Eurpoean Union and the internally processing and accepting online payments.
+Their IT department's manager has decided that they should perform an internal IT audit, as she is worried about maintaining compliance and business operations as the company continues to grow without clear guidelines. She believes that an internal audit will help to secure the company's infrastructure and help them identify and mitigate potential risks, vulnerabilities, or threats to assets. The manager is also interested in ensuring that they comply with regulations for conducting business in the European Union and internally processing and accepting online payments.
 
-The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing IT assets, and completing a risk assesment, with the goal to provide an overview of risks or fines that the company might experience due to the current state of their security posture.
+The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing IT assets, and completing a risk assessment, with the goal to provide an overview of risks or fines that the company might experience due to the current state of their security posture.
 
-I will review the IT manager's scope, goals, and risk assesment report and then perform an internal audit by completing a controls and compliance checklist.
+I will review the IT manager's scope, goals, and risk assessment report and then perform an internal audit by completing a controls and compliance checklist.
 
 
 
@@ -66,34 +66,34 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ### Controls Assessment
 
 #### Administrative/Managerial Controls
-| Control Name | Needs to be Implimented (X) | Explanation |
+| Control Name | Needs to be Implemented (X) | Explanation |
 |---|:---:|---|
 |Least Privilege|X|All employees currently have access to customer data. This should be limited to reduce the risk of a data breach|
-|Disaster Recovery Plans|X|No disaster recovery is in place. It should be implimented to ensure business continuity|
+|Disaster Recovery Plans|X|No disaster recovery is in place. It should be implemented to ensure business continuity|
 |Password Policies|X|Current password policies are weak and cause problems. This could lead to a data breach of data|
-|Separation of Duties|X|Needs to be implimented to reduce fraudulent access to critical data|
+|Separation of Duties|X|Needs to be implemented to reduce fraudulent access to critical data|
 
 
 
 #### Technical Controls
-| Control Name | Needs to be Implimented (X) | Explanation |
+| Control Name | Needs to be Implemented (X) | Explanation |
 |---|:---:|---|
 | Firewall | |Firewall is currently active and maintained|
-| Intrusion Detection System (IDS)| X | Needs to be implimented to help reduce the damage of an intruder|
-| Backups |X | Needs to be implimented to restore/recover in the event of an attack|
+| Intrusion Detection System (IDS)| X | Needs to be implemented to help reduce the damage of an intruder|
+| Backups |X | Needs to be implemented to restore/recover in the event of an attack|
 | Antivirus Software|  | Antivirus is currently active and maintained|
-| Manual Monitoring, Maintenacne, and Intervention for Legacy Systems| X | A regular schedule should be implimented to reduce the possibility of a risk | 
-| Encryption |X| Should be implimented to improve PII/SPII security|
-| Password Management | X | There is currently no password management in place. Implimenting would imporve against password fatigue|
+| Manual Monitoring, Maintenance, and Intervention for Legacy Systems| X | A regular schedule should be implemented to reduce the possibility of a risk | 
+| Encryption |X| Should be implemented to improve PII/SPII security|
+| Password Management | X | There is currently no password management in place. Implementing would improve against password fatigue|
 
 
 
 #### Physical/Operational Controls
-| Control Name | Needs to be Implimented (X) | Explanation |
+| Control Name | Needs to be Implemented (X) | Explanation |
 |---|:---:|---|
 | Locks (offices, storefront, warehouse) | | Locks have been installed|
 | Closed-circuit television (CCTV) surveillance|| CCTV has been installed|
-| Fire detection/prevention (fire alarm, sprinkler system, etc.) | | Fire detection/prevention ahs been installed|
+| Fire detection/prevention (fire alarm, sprinkler system, etc.) | | Fire detection/prevention has been installed|
 
 
 
@@ -101,7 +101,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ### Compliance Assessment
 
 #### Payment Card Industry Data Security Standard (PCI DSS)
-| Best Practice | Needs to be Implimented (X) | 
+| Best Practice | Needs to be Implemented (X) | 
 |---|:---:|
 |Only authorized users have access to customers’ credit card information| X |
 |Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment| X |
@@ -111,7 +111,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 
 #### General Data Protection Regulation (GDPR)
-| Best Practice | Needs to be Implimented (X) |
+| Best Practice | Needs to be Implemented (X) |
 |---|:---:|
 |E.U. customers’ data is kept private/secured | X|
 |There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach||
@@ -121,7 +121,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 
 #### System and Organizations Controls (SOC type 1, SOC type 2)
-| Best Practice | Needs to be Implimented (X) |
+| Best Practice | Needs to be Implemented (X) |
 |---|:---:|
 |User access policies are established|X|
 |Sensitive data (PII/SPII) is confidential/private|X|
@@ -131,15 +131,16 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 
 ### Recommendations
-Upon assessment, we need to update many controls in order to prevent risk and prepare for international business. I would emphasize the need to secure our data internally, then we can look into expanding business. Our customers data should be a top priority as well, and we are currently not encrypting most of their data. I would suggest the plan of action being the following, based on risk posed, to improve our security posture:
+Upon assessment, we need to update many controls in order to prevent risk and prepare for international business. I would emphasize the need to secure our data internally, then we can look into expanding business. Our customers' data should be a top priority as well, and we are currently not encrypting most of their data. I would suggest the plan of action being the following, based on risk posed, to improve our security posture:
 1. Secure customer data (encryption)
-2. Impliment intrusion detection systems and data backups
+2. Implement intrusion detection systems and data backups
 3. Secure office accounts (password policies, separation of duties, etc)
 4. Address any outliers in the assessment above
 
-Doing this should also help Botium Toys to begin complying with E.U. and U.S. regulations, allowing for less risk of fines in the future. Botium Toys should also properly classify assets in order to identify any other controls that may need to be implimented.
+Doing this should also help Botium Toys to begin complying with E.U. and U.S. regulations, allowing for less risk of fines in the future. Botium Toys should also properly classify assets in order to identify any other controls that may need to be implemented.
 
 
 
 ## Conclusion
-After completing this activity and reviewing my response, I see that I did well in assessing what has and has not been implimented already. I was able to accurately identify what Botium Toys needs to impliment in order to reach compliance and what should be done to secure their data. I can improve on my ability to rank these issues based on risk however, as I struggled to figure out which aspects were more important to be completed sooner rather than later.
+After completing this activity and reviewing my response, I see that I did well in assessing what has and has not been implemented already. I was able to accurately identify what Botium Toys needs to implement in order to reach compliance and what should be done to secure their data. I can improve on my ability to rank these issues based on risk however, as I struggled to figure out which aspects were more important to be completed sooner rather than later.
+
