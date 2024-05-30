@@ -64,7 +64,7 @@ I will review the IT manager's scope, goals, and risk assesment report and then 
 ## Controls and Compliance Assessment
 
 | Control Name | Control Type and Explanation | Needs to be Implimented (X) | Priority |
-|:---|:---|:---:|:---:|
+|---|---|:---:|:---:|
 | Least Privilege | Preventative; reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs | X | High|
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
