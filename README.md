@@ -2,7 +2,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Scenario](#scenario)
-3. [Scope, Goals, and Risk Assessment Report](#Scope, Goals, and Risk Assessment Report)
+3. [Scope, Goals, and Risk Assessment Report](#Report)
 
 
 ## Introduction
