@@ -3,6 +3,7 @@
 1. [Introduction](#introduction)
 2. [Scenario](#scenario)
 3. [Scope, Goals, and Risk Assessment Report](#Report)
+4. [Controls and Compliance Checklist](#Checklist)
 
 
 ## Introduction
@@ -60,5 +61,11 @@ I will review the IT manager's scope, goals, and risk assesment report and then 
   * While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
   * The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 
-##
+## Controls and Compliance Assessment
+
+| Control Name | Control Type and Explanation | Needs to be Implimented (X) | Priority |
+|:---|:---|:---:|:---:|
+| Least Privilege | Preventative; reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs | X | High|
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
