@@ -2,6 +2,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Scenario](#scenario)
+3. [Scope, Goals, and Risk Assessment Report](#Scope, Goals, and Risk Assessment Report)
 
 
 ## Introduction
@@ -18,3 +19,4 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 I will review the IT manager's scope, goals, and risk assesment report and then perform an internal audit by completing a controls and compliance checklist.
 
+## Scope, Goals, and Risk Assessment Report
